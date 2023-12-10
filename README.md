@@ -15,4 +15,4 @@
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia e atualmente estou estudando React e sempre buscando melhorar meu aprendizado.
+Apaixonado por tecnologia e sempre buscando melhorar meus conhecimentos, atualmente estou estudando React.
